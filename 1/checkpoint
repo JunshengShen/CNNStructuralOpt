@@ -1,0 +1,6 @@
+model_checkpoint_path: "/20170501/1/5.ckpt"
+all_model_checkpoint_paths: "/20170501/1/1.ckpt"
+all_model_checkpoint_paths: "/20170501/1/2.ckpt"
+all_model_checkpoint_paths: "/20170501/1/3.ckpt"
+all_model_checkpoint_paths: "/20170501/1/4.ckpt"
+all_model_checkpoint_paths: "/20170501/1/5.ckpt"
